@@ -1,1 +1,13 @@
 
+.idea/
+posts/__init__.pyc
+posts/admin.pyc
+posts/forms.pyc
+posts/migrations/
+posts/models.pyc
+posts/urls.pyc
+posts/views.pyc
+trydjango19/__init__.pyc
+trydjango19/settings.pyc
+trydjango19/urls.pyc
+trydjango19/wsgi.pyc
